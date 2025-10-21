@@ -1,6 +1,10 @@
 flask
 flask-cors
-python-dotenv
 pandas
 openpyxl
 scikit-learn
+requests
+beautifulsoup4
+PyPDF2
+youtube-transcript-api
+python-dotenv
