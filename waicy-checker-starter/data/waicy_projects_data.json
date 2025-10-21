@@ -1,0 +1,828 @@
+[
+  {
+    "project_name": "Pain Calculator",
+    "year": "2024",
+    "category": "High School - AI Showcase - Gold Award",
+    "summary": "This project develops an AI-powered pain assessment tool that utilizes computer vision and machine learning algorithms to objectively quantify patient discomfort levels through facial expression analysis and physiological markers. The system aims to improve pain management in clinical settings by providing healthcare professionals with standardized, bias-free pain evaluation metrics. By integrating real-time data processing with medical databases, the solution enhances patient care and treatment decision-making.",
+    "links": ["https://youtu.be/ahsW0zvVBDE"]
+  },
+  {
+    "project_name": "Sangeet & I",
+    "year": "2024",
+    "category": "High School - AI Showcase - Silver Award",
+    "summary": "An AI-driven music education platform that personalizes learning experiences based on individual student capabilities and progress patterns using adaptive algorithms. The system analyzes musical performance data to provide tailored feedback and customized practice recommendations that accelerate skill development. This innovative approach democratizes access to high-quality music instruction and addresses the shortage of personalized music education resources.",
+    "links": ["https://youtu.be/aIr5klS5oRk"]
+  },
+  {
+    "project_name": "A.i.CLAS",
+    "year": "2024",
+    "category": "High School - AI Showcase - Bronze Award",
+    "summary": "This project implements an intelligent classroom assistance system that leverages natural language processing and computer vision to enhance educational delivery and student engagement. The AI analyzes classroom dynamics, student attention patterns, and learning comprehension in real-time to provide teachers with actionable insights for instructional optimization. The system aims to create more adaptive and responsive learning environments that address diverse student needs.",
+    "links": ["https://youtu.be/W_WLpf5tTwM"]
+  },
+  {
+    "project_name": "RVCTective",
+    "year": "2024",
+    "category": "High School - AI Showcase - 4th Place Recognition",
+    "summary": "An AI-based detective system designed to analyze and identify patterns in real-time voice communication (RVC) for security and verification purposes. The project employs deep learning models to detect anomalies, verify speaker identity, and identify potential security threats through voice analysis. This technology has applications in cybersecurity, fraud prevention, and secure authentication systems.",
+    "links": ["https://youtu.be/kTJ-DCD3m7E"]
+  },
+  {
+    "project_name": "DrVam",
+    "year": "2024",
+    "category": "High School - AI Showcase - 5th Place Recognition",
+    "summary": "A virtual medical assistant leveraging artificial intelligence to provide preliminary health assessments and medical information to underserved populations. The system uses symptom analysis algorithms and medical knowledge bases to offer guidance while emphasizing the importance of professional medical consultation. DrVam addresses healthcare accessibility challenges by providing 24/7 health information support through an intuitive interface.",
+    "links": ["https://youtu.be/XSUTjL95OIU"]
+  },
+  {
+    "project_name": "InstaData",
+    "year": "2024",
+    "category": "High School - AI Showcase - AI Excellence",
+    "summary": "This project creates an advanced data visualization and analysis platform that transforms complex datasets into instantly comprehensible visual representations using machine learning techniques. The system automatically identifies patterns, correlations, and insights within large-scale data, making data science more accessible to non-technical users. InstaData exemplifies excellence in applying AI to enhance data literacy and informed decision-making across various domains.",
+    "links": ["https://youtu.be/iZ16Ig6TS6o"]
+  },
+  {
+    "project_name": "Bridging Borders",
+    "year": "2024",
+    "category": "High School - AI Showcase - Impact Excellence",
+    "summary": "An AI-powered translation and cultural communication platform designed to facilitate meaningful cross-cultural interactions and reduce language barriers in global contexts. The system combines advanced natural language processing with cultural context awareness to provide nuanced translations that preserve meaning and cultural sensitivity. This project demonstrates significant potential impact in international collaboration, education, and humanitarian efforts.",
+    "links": ["https://youtu.be/QR0hx5-DBSU"]
+  },
+  {
+    "project_name": "MindPaw",
+    "year": "2024",
+    "category": "High School - AI Showcase - Design Excellence",
+    "summary": "A companion AI system that provides mental health support and emotional wellness guidance through empathetic conversational interfaces and behavioral pattern analysis. The project features an exceptionally designed user experience that makes mental health resources more accessible and reduces stigma around seeking psychological support. MindPaw demonstrates design excellence through its intuitive interface, compassionate AI responses, and evidence-based therapeutic techniques.",
+    "links": ["https://youtu.be/k3bgwTKy6R4"]
+  },
+  {
+    "project_name": "FUTROBALL",
+    "year": "2024",
+    "category": "Middle School - AI Showcase - Gold Award",
+    "summary": "An innovative sports analytics system that uses computer vision and predictive modeling to analyze football gameplay, player performance, and strategic patterns. The AI provides coaches and players with actionable insights to optimize training regimens and game strategies through data-driven recommendations. FUTROBALL represents a fusion of sports science and artificial intelligence to enhance athletic performance and competitive outcomes.",
+    "links": ["https://youtu.be/MZk1-qpXiwE"]
+  },
+  {
+    "project_name": "EcoRe",
+    "year": "2024",
+    "category": "Middle School - AI Showcase - Silver Award",
+    "summary": "An AI-driven environmental monitoring and recycling optimization system that identifies recyclable materials through image recognition and provides users with proper disposal guidance. The platform tracks recycling behaviors, calculates environmental impact metrics, and incentivizes sustainable practices through gamification elements. EcoRe addresses critical waste management challenges while promoting environmental consciousness in communities.",
+    "links": ["https://youtu.be/akNJ_-67sNM"]
+  },
+  {
+    "project_name": "RehabAI",
+    "year": "2024",
+    "category": "Middle School - AI Showcase - Bronze Award",
+    "summary": "A physical therapy assistance system that utilizes computer vision and motion tracking to guide patients through rehabilitation exercises and monitor movement quality. The AI provides real-time feedback on exercise form, tracks recovery progress, and adjusts therapy routines based on individual patient capabilities and improvement rates. This innovation makes professional-quality rehabilitation support more accessible and affordable for patients recovering from injuries.",
+    "links": ["https://youtu.be/WxcQ4jS3IS4"]
+  },
+  {
+    "project_name": "NutriLens",
+    "year": "2024",
+    "category": "Middle School - AI Showcase - 5th Place Recognition",
+    "summary": "An intelligent nutrition analysis application that employs image recognition to identify food items and calculate comprehensive nutritional information from photographs. The system provides personalized dietary recommendations based on user health goals, medical conditions, and cultural food preferences. NutriLens promotes healthier eating habits by making nutritional awareness effortless and accessible through smartphone technology.",
+    "links": ["https://youtu.be/-dn244bn0zc"]
+  },
+  {
+    "project_name": "Health X",
+    "year": "2024",
+    "category": "Middle School - AI Showcase - AI Excellence",
+    "summary": "A comprehensive health monitoring platform that integrates multiple AI models to track vital signs, predict health risks, and provide preventive healthcare recommendations. The system demonstrates exceptional AI implementation through its multi-modal data analysis, combining wearable sensor data with user-reported symptoms and medical history. Health X exemplifies AI excellence in creating accessible, proactive healthcare solutions for early disease detection and wellness management.",
+    "links": ["https://youtu.be/B7v-UTqMS9U"]
+  },
+  {
+    "project_name": "Earthquake Detection",
+    "year": "2024",
+    "category": "Middle School - AI Showcase - Impact Excellence",
+    "summary": "An early warning system that utilizes machine learning algorithms to detect seismic activity patterns and predict earthquake occurrences with improved accuracy and response time. The project analyzes geophysical data from multiple sensors to provide timely alerts that enable emergency preparedness and potentially save lives. This innovation demonstrates significant societal impact by addressing critical disaster preparedness needs in seismically active regions.",
+    "links": ["https://youtu.be/f7Tn_2W27E4"]
+  },
+  {
+    "project_name": "AI Tennis Coach",
+    "year": "2024",
+    "category": "Middle School - AI Showcase - Design Excellence",
+    "summary": "An intelligent coaching system that analyzes tennis player movements, stroke mechanics, and game strategies through computer vision to provide personalized training feedback. The project features outstanding design in its user interface, visualization of performance metrics, and intuitive feedback delivery system. The AI Tennis Coach makes professional-level coaching insights accessible to players of all skill levels through innovative technology integration.",
+    "links": ["https://youtu.be/tK2WduszTuk"]
+  },
+  {
+    "project_name": "WildFires Robots",
+    "year": "2024",
+    "category": "Elementary - AI Showcase - Gold Award",
+    "summary": "An autonomous robotic system designed to detect and respond to wildfire incidents using AI-powered environmental sensing and navigation capabilities. The robots employ thermal imaging, smoke detection algorithms, and intelligent path planning to identify fire sources and assist in early containment efforts. This project addresses the growing global challenge of wildfire management through innovative robotics and artificial intelligence integration.",
+    "links": ["https://youtu.be/AwmfgrJQ4Q0"]
+  },
+  {
+    "project_name": "Eldercare",
+    "year": "2024",
+    "category": "Elementary - AI Showcase - Silver Award",
+    "summary": "An AI-assisted monitoring and companionship system specifically designed to support elderly individuals living independently while ensuring their safety and well-being. The platform uses activity monitoring, fall detection, medication reminders, and social engagement features to enhance quality of life for seniors. Eldercare addresses the critical need for affordable, dignified aging-in-place solutions through compassionate technology design.",
+    "links": ["https://youtu.be/495Hu9fucPA"]
+  },
+  {
+    "project_name": "Smart Bin",
+    "year": "2024",
+    "category": "Elementary - AI Showcase - Bronze Award",
+    "summary": "An intelligent waste management system that automatically categorizes trash items using computer vision and directs them to appropriate recycling or disposal compartments. The Smart Bin educates users about proper waste segregation through interactive feedback and tracks recycling metrics to promote environmental awareness. This innovation simplifies recycling processes and increases waste diversion rates in households and public spaces.",
+    "links": ["https://youtu.be/guKoHE77KhE"]
+  },
+  {
+    "project_name": "The Camel",
+    "year": "2024",
+    "category": "Elementary - AI Showcase - 4th Place Recognition",
+    "summary": "A robotics project inspired by camels' desert adaptability, featuring AI-driven navigation and resource optimization capabilities for challenging environments. The system demonstrates bio-inspired problem-solving approaches and efficient energy management strategies applicable to autonomous vehicles and exploration robots. This creative project showcases how natural systems can inform artificial intelligence design for extreme condition operations.",
+    "links": ["https://drive.google.com/file/d/19rao2cjaWY7Thoyxs6WWDUBGNZRED6gj/view?usp=sharing"]
+  },
+  {
+    "project_name": "AI-Powered Pest Control",
+    "year": "2024",
+    "category": "Elementary - AI Showcase - 5th Place Recognition",
+    "summary": "An agricultural technology solution that employs computer vision and machine learning to identify harmful pests in crops and recommend targeted, environmentally responsible treatment strategies. The system helps farmers reduce crop losses while minimizing pesticide usage through precise pest identification and localized treatment recommendations. This project addresses food security challenges and promotes sustainable farming practices through intelligent automation.",
+    "links": ["https://youtu.be/epekfCgXCCM"]
+  },
+  {
+    "project_name": "SCANAI",
+    "year": "2024",
+    "category": "Elementary - AI Showcase - AI Excellence",
+    "summary": "A document scanning and analysis application that utilizes optical character recognition (OCR) and natural language processing to extract, organize, and analyze information from physical documents. The system demonstrates exceptional AI implementation through its multi-language support, handwriting recognition capabilities, and intelligent data categorization features. SCANAI enhances productivity and accessibility by digitizing and making physical information searchable and actionable.",
+    "links": ["https://youtu.be/3qzKJ7lwMI0"]
+  },
+  {
+    "project_name": "GREENTREK",
+    "year": "2024",
+    "category": "Elementary - AI Showcase - Impact Excellence",
+    "summary": "An environmental education and action platform that uses AI to track individual and community carbon footprints while suggesting personalized sustainability initiatives. The application gamifies environmental conservation through challenges, rewards, and social engagement features that promote eco-friendly behaviors. GREENTREK demonstrates significant potential impact by making climate action accessible, measurable, and motivating for users of all ages.",
+    "links": ["https://youtu.be/YicaJkTi2KQ"]
+  },
+  {
+    "project_name": "Hue Helper",
+    "year": "2024",
+    "category": "Elementary - AI Showcase - Design Excellence",
+    "summary": "An assistive technology application designed to help individuals with color vision deficiency (color blindness) identify and distinguish colors in their environment through AI-powered image analysis. The project features exceptional design through its intuitive interface, accessibility considerations, and real-time color identification capabilities. Hue Helper enhances independence and quality of life for color-blind individuals through thoughtful technological innovation.",
+    "links": ["https://youtu.be/kp0cL1AiVPI"]
+  },
+  {
+    "project_name": "Epochs & Echoes",
+    "year": "2024",
+    "category": "High School - AI Video - Gold Award",
+    "summary": "An AI-generated video project exploring the philosophical and temporal implications of artificial intelligence development across different historical periods and future possibilities. The creative work uses advanced generative AI techniques to visualize how AI concepts might manifest in various epochs, creating a thought-provoking narrative about technology's evolution. This project demonstrates artistic excellence in combining storytelling with AI-generated visual media.",
+    "links": ["https://youtu.be/RN_TIdBW07A"]
+  },
+  {
+    "project_name": "Whispers of the Forest",
+    "year": "2024",
+    "category": "High School - AI Video - Silver Award",
+    "summary": "An environmental awareness video created using AI generation tools that tells a narrative about ecosystem preservation and the interconnectedness of nature. The project employs sophisticated AI video synthesis to create immersive forest scenes and wildlife imagery that convey urgent conservation messages. Through artistic AI application, this work raises awareness about deforestation and biodiversity loss.",
+    "links": ["https://youtu.be/Kl7TIvLHNn0"]
+  },
+  {
+    "project_name": "Sight Unseen",
+    "year": "2024",
+    "category": "High School - AI Video - Bronze Award",
+    "summary": "An AI-generated film exploring themes of perception, reality, and the limitations of human and artificial vision through creative visual storytelling. The project uses generative AI to create surreal, thought-provoking imagery that challenges viewers' understanding of sight and consciousness. This innovative work demonstrates the artistic potential of AI in creating conceptually complex and visually striking narrative media.",
+    "links": ["https://youtu.be/SPLM_Ou7KLk"]
+  },
+  {
+    "project_name": "The Future of AI: Utopia or Dystopia?",
+    "year": "2024",
+    "category": "High School - AI Video - 4th Place Recognition",
+    "summary": "A balanced exploration of artificial intelligence's potential futures, presenting both optimistic and cautionary scenarios through AI-generated visual storytelling. The video examines ethical considerations, societal impacts, and technological trajectories to stimulate critical thinking about AI development directions. This project demonstrates sophisticated understanding of AI implications while showcasing creative video generation capabilities.",
+    "links": ["https://youtu.be/2CVScnUUVTA"]
+  },
+  {
+    "project_name": "AI as an Empathy Engine",
+    "year": "2024",
+    "category": "High School - AI Video - 5th Place Recognition",
+    "summary": "An innovative AI-generated video that explores how artificial intelligence systems might be designed to understand, model, and respond to human emotions with genuine empathy. The project visualizes concepts of emotional intelligence in AI through creative scenarios and thought-provoking imagery. This work contributes to ongoing discussions about developing more human-centered and emotionally aware AI systems.",
+    "links": ["https://youtu.be/GgtXxOdzO9w"]
+  },
+  {
+    "project_name": "Why Not Us?",
+    "year": "2024",
+    "category": "Middle School - AI Video - Gold Award",
+    "summary": "An inspirational AI-generated video promoting youth empowerment and the belief that young people can drive technological innovation and social change. The project uses compelling visual narratives to demonstrate how students from diverse backgrounds can contribute to AI development and problem-solving. This work encourages inclusivity and confidence in STEM education through powerful storytelling.",
+    "links": ["https://youtu.be/CqY8ZDkRM8c"]
+  },
+  {
+    "project_name": "SEEDS OF CHANGE From the Philippines to the World, Change Grows Here",
+    "year": "2024",
+    "category": "Middle School - AI Video - Silver Award",
+    "summary": "An AI-generated documentary-style video showcasing how grassroots initiatives and youth-led innovation in the Philippines can inspire global positive change. The project highlights social entrepreneurship, environmental conservation, and community development through visually engaging AI-created content. This work demonstrates how local actions can have worldwide impact and the power of young changemakers.",
+    "links": ["https://youtu.be/2Ve5eBnGaVc"]
+  },
+  {
+    "project_name": "Granny 2.0",
+    "year": "2024",
+    "category": "Middle School - AI Video - Bronze Award",
+    "summary": "A heartwarming AI-generated video exploring how technology can bridge generational gaps and enhance elderly individuals' connection to modern digital society. The creative work uses humor and empathy to address aging in the technology era while advocating for inclusive design. This project promotes intergenerational understanding and highlights the importance of making technology accessible to all age groups.",
+    "links": ["https://youtu.be/DXv-x8Rj8_w"]
+  },
+  {
+    "project_name": "Humanity & AI Restoring hope",
+    "year": "2024",
+    "category": "Middle School - AI Video - 4th Place Recognition",
+    "summary": "An optimistic AI-generated video depicting collaborative scenarios where human creativity and artificial intelligence work together to solve global challenges and restore hope for the future. The project visualizes potential solutions to pressing problems like climate change, healthcare access, and education inequality. This inspiring work promotes a balanced, hopeful perspective on human-AI cooperation.",
+    "links": ["https://youtu.be/TQvlf7KFMjY"]
+  },
+  {
+    "project_name": "Robot Cops",
+    "year": "2024",
+    "category": "Middle School - AI Video - 5th Place Recognition",
+    "summary": "An AI-generated speculative fiction video exploring the implications of autonomous law enforcement robots in future society, examining both benefits and ethical concerns. The project raises important questions about surveillance, accountability, and the role of AI in public safety. This thought-provoking work encourages critical discussion about balancing security with civil liberties in an AI-augmented world.",
+    "links": ["https://youtu.be/-4MhpIRT-7k"]
+  },
+  {
+    "project_name": "Learning Artificial Intelligence",
+    "year": "2024",
+    "category": "Elementary - AI Video - Gold Award",
+    "summary": "An educational AI-generated video designed to introduce young learners to fundamental artificial intelligence concepts through age-appropriate explanations and engaging visual content. The project breaks down complex AI topics into accessible segments that spark curiosity and foundational understanding. This work demonstrates excellence in educational content creation using AI generation tools.",
+    "links": ["https://youtu.be/1HxC4ZgDWEg"]
+  },
+  {
+    "project_name": "AI: A Journey To Peace",
+    "year": "2024",
+    "category": "Elementary - AI Video - Silver Award",
+    "summary": "An AI-generated video presenting a hopeful vision of how artificial intelligence could contribute to conflict resolution, cultural understanding, and global peace initiatives. The project uses optimistic imagery and narrative to inspire young viewers about technology's potential for positive social impact. This work promotes peace education and demonstrates how AI tools can convey important humanitarian messages.",
+    "links": ["https://youtu.be/QmUGplszgpM"]
+  },
+  {
+    "project_name": "A PLANET RENEWED: Building a Sustainable Future",
+    "year": "2024",
+    "category": "Elementary - AI Video - Bronze Award",
+    "summary": "An environmental advocacy video created with AI generation tools that visualizes a sustainable future where humanity has successfully addressed climate change and ecological degradation. The project presents actionable solutions and inspires viewers to participate in environmental conservation through compelling visual storytelling. This work effectively combines environmental education with creative AI application.",
+    "links": ["https://youtu.be/YQQwgD6GkBw"]
+  },
+  {
+    "project_name": "AI: FORGING THE FUTURE",
+    "year": "2024",
+    "category": "Elementary - AI Video - 4th Place Recognition",
+    "summary": "An inspirational AI-generated video that explores how artificial intelligence is shaping various aspects of future society, from education to healthcare to daily life. The project presents an optimistic yet realistic view of technological progress and encourages young audiences to engage with AI literacy. This work demonstrates effective use of AI tools for creating engaging educational content.",
+    "links": ["https://youtu.be/tjOIqMfC2-k"]
+  },
+  {
+    "project_name": "AI-Assisted Cancer Drug Discovery",
+    "year": "2024",
+    "category": "Elementary - AI Video - 5th Place Recognition",
+    "summary": "An educational video explaining how artificial intelligence accelerates the development of cancer treatments by analyzing molecular structures and predicting drug efficacy. The project makes complex pharmaceutical research accessible to young audiences while highlighting AI's life-saving potential in medical science. This work demonstrates sophisticated understanding of AI applications in healthcare research.",
+    "links": ["https://youtu.be/Q5hrd5bh1os"]
+  },
+  {
+    "project_name": "Teach for Earth: AI Tackling Climate change",
+    "year": "2024",
+    "category": "Elementary - AI Video - 5th Place Recognition",
+    "summary": "An educational AI-generated video that demonstrates how artificial intelligence technologies are being deployed to monitor, predict, and mitigate climate change effects. The project explains AI applications in environmental science through accessible examples and engaging visuals appropriate for elementary students. This work effectively promotes environmental awareness and demonstrates AI's role in addressing global challenges.",
+    "links": ["https://youtu.be/S41eComQZBA"]
+  },
+  {
+    "project_name": "SoloScale Real Estate AI Agent",
+    "year": "2024",
+    "category": "High School - LLM Track - Gold Award",
+    "summary": "A sophisticated large language model application that assists real estate professionals and homebuyers through intelligent property analysis, market trend interpretation, and personalized recommendation generation. The AI agent demonstrates advanced prompt engineering and contextual understanding to provide comprehensive real estate guidance including property valuations, neighborhood analysis, and investment advice. This project showcases excellence in applying LLM technology to streamline complex decision-making processes in the real estate industry.",
+    "links": ["https://drive.google.com/file/d/1xsf4AXcTSnisUUYpydnqrbjesIwQAfV6/view?usp=drive_link"]
+  },
+  {
+    "project_name": "RadiantSkinAI",
+    "year": "2024",
+    "category": "High School - LLM Track - Silver Award",
+    "summary": "An AI-powered dermatology consultation assistant that uses large language models to provide personalized skincare recommendations, identify potential skin conditions, and offer evidence-based treatment guidance. The system demonstrates sophisticated prompt engineering to deliver medically-informed responses while appropriately directing users to professional care when necessary. RadiantSkinAI makes dermatological expertise more accessible while maintaining safety and accuracy standards.",
+    "links": ["https://drive.google.com/file/d/1eJDg5AxeYiVRzZitBrMJOCuxMhe28hrW/view?usp=drive_link"]
+  },
+  {
+    "project_name": "Fridgecipe",
+    "year": "2024",
+    "category": "High School - LLM Track - Bronze Award",
+    "summary": "An intelligent recipe generation system that uses large language models to create customized recipes based on available ingredients, dietary restrictions, and user preferences. The application demonstrates creative prompt engineering to produce practical, nutritionally-balanced meal suggestions while minimizing food waste. Fridgecipe combines culinary knowledge with AI capabilities to make home cooking more accessible and sustainable.",
+    "links": ["https://drive.google.com/file/d/1bnMZeWO7Xr725zmd9Ks1EK2ofDySZVb2/view?usp=drive_link"]
+  },
+  {
+    "project_name": "UI Expert",
+    "year": "2024",
+    "category": "High School - LLM Track - 4th Place Recognition",
+    "summary": "A design assistance tool powered by large language models that provides expert guidance on user interface and user experience principles, offering critique and suggestions for digital product design. The system demonstrates sophisticated understanding of design theory and can generate actionable feedback on wireframes, prototypes, and design decisions. UI Expert democratizes access to professional-level design consultation through intelligent AI application.",
+    "links": ["https://drive.google.com/file/d/1BDS76bAyv7z82uC3-AH2_UmatWSUZ3YS/view?usp=drive_link"]
+  },
+  {
+    "project_name": "GRASP AI Budget Chatbot",
+    "year": "2024",
+    "category": "High School - LLM Track - 4th Place Recognition",
+    "summary": "A financial literacy tool that employs large language models to help users understand budgeting principles, track expenses, and develop personalized financial plans. The chatbot provides accessible financial education through conversational interfaces while offering practical money management strategies tailored to individual circumstances. This project addresses critical financial literacy gaps through intuitive AI-powered guidance.",
+    "links": ["https://drive.google.com/file/d/1wxueVdpnLCYM7Cr91Vsz9Civ_vZ4S8LD/view?usp=drive_link"]
+  },
+  {
+    "project_name": "The Story Studio",
+    "year": "2024",
+    "category": "High School - LLM Track - 5th Place Recognition",
+    "summary": "A creative writing platform that leverages large language models to assist aspiring authors in developing stories, characters, and plot structures through interactive collaboration. The system demonstrates sophisticated prompt engineering to maintain narrative consistency while offering creative suggestions that enhance rather than replace human authorship. The Story Studio promotes creative expression and literacy through thoughtful human-AI collaboration.",
+    "links": ["https://drive.google.com/file/d/1hXqyDaXACdUExwwAdv32SWTYnBtM_p3W/view?usp=drive_link"]
+  },
+  {
+    "project_name": "BullyProof",
+    "year": "2024",
+    "category": "Middle School - LLM Track - Gold Award",
+    "summary": "An anti-bullying support system that uses large language models to provide empathetic guidance, coping strategies, and resources to students experiencing bullying or cyberbullying. The AI demonstrates exceptional sensitivity in addressing emotional distress while appropriately escalating serious concerns to trusted adults and counselors. BullyProof creates a safe, anonymous space for students to seek help and develop resilience against bullying behaviors.",
+    "links": ["https://drive.google.com/file/d/1FBM1liIyWC-jP9wxexze2vC8kXRhFYNQ/view?usp=drive_link"]
+  },
+  {
+    "project_name": "Budget Buddy: Your Fun Financial Buddy",
+    "year": "2024",
+    "category": "Middle School - LLM Track - Silver Award",
+    "summary": "A gamified financial education platform that employs large language models to teach middle school students about money management, savings, and responsible spending through engaging, age-appropriate interactions. The system makes financial literacy accessible and fun through personalized challenges, virtual rewards, and conversational learning experiences. Budget Buddy addresses the critical need for early financial education in an engaging, non-intimidating format.",
+    "links": ["https://youtu.be/HWZ2pRzvE4s"]
+  },
+  {
+    "project_name": "NutriBot",
+    "year": "2024",
+    "category": "Middle School - LLM Track - Bronze Award",
+    "summary": "A nutrition education chatbot powered by large language models that helps students understand healthy eating principles, read nutrition labels, and make informed food choices. The system provides personalized dietary guidance while considering age-appropriate nutritional needs, cultural food preferences, and individual health goals. NutriBot promotes healthy lifestyle habits through accessible, conversational nutrition education.",
+    "links": ["https://drive.google.com/file/d/1MoGxij_cYueKpcSo_kfAfFD1xdmBI96J/view?usp=drive_link"]
+  },
+  {
+    "project_name": "Battling Common Harmful Pests on Farms – Your Farm Helper to Fight Bugs!",
+    "year": "2024",
+    "category": "Elementary - LLM Track - Gold Award",
+    "summary": "An agricultural assistance system that uses large language models to help young farmers and students identify crop pests and receive guidance on environmentally responsible pest management strategies. The AI provides accessible explanations of pest life cycles, damage patterns, and integrated pest management techniques appropriate for elementary-level understanding. This project promotes sustainable agriculture and makes farming knowledge accessible to the next generation of agricultural practitioners.",
+    "links": ["https://drive.google.com/file/d/1Zw8KLst92gyCrzRYrtB9UbzsuSaEd_kZ/view?usp=drive_link"]
+  },
+  {
+    "project_name": "Say HELLO to ASLtranslator IOS & Android Application",
+    "year": "2023",
+    "category": "Elementary - AI Showcase",
+    "summary": "A mobile application that translates American Sign Language (ASL) into text and speech in real-time using computer vision and machine learning models trained on ASL gestures. The cross-platform solution makes communication more accessible for deaf and hard-of-hearing individuals by bridging the gap between sign language and spoken language. This project demonstrates exceptional innovation in accessibility technology through intuitive mobile interface design.",
+    "links": ["https://youtu.be/ziz_YLdybyQ"]
+  },
+  {
+    "project_name": "Read4Kids",
+    "year": "2023",
+    "category": "Elementary - AI Showcase",
+    "summary": "An AI-powered literacy application that helps young children develop reading skills through personalized story recommendations, pronunciation assistance, and comprehension tracking. The system uses natural language processing to assess reading levels and adapts content difficulty to optimize learning progression. Read4Kids addresses early literacy challenges by making reading practice engaging and appropriately challenging for diverse learners.",
+    "links": ["https://youtu.be/i1TWbt9mFJM"]
+  },
+  {
+    "project_name": "Clean Oceans",
+    "year": "2023",
+    "category": "Elementary - AI Showcase",
+    "summary": "An environmental monitoring system that employs computer vision and AI to identify and track ocean pollution, particularly plastic waste, while coordinating cleanup efforts and raising public awareness. The project analyzes satellite imagery and coastal camera feeds to map pollution hotspots and predict waste accumulation patterns. Clean Oceans combines environmental science with artificial intelligence to address marine ecosystem preservation.",
+    "links": ["https://youtu.be/BybbH5nxq7g"]
+  },
+  {
+    "project_name": "Assist",
+    "year": "2023",
+    "category": "Elementary - AI Showcase",
+    "summary": "A general-purpose AI assistant application designed to help elementary students with homework, organization, and time management through conversational interfaces and task automation. The system provides age-appropriate guidance across multiple subjects while promoting independent learning and self-management skills. Assist demonstrates how AI can support student success without replacing critical thinking and effort.",
+    "links": ["https://youtu.be/PZgXFCJJdQg"]
+  },
+  {
+    "project_name": "FarmElement-Big Tech for small farms",
+    "year": "2023",
+    "category": "Middle School - AI Showcase",
+    "summary": "An agricultural technology platform that makes advanced precision farming techniques accessible to small-scale farmers through affordable AI-powered crop monitoring, yield prediction, and resource optimization. The system analyzes weather data, soil conditions, and crop health indicators to provide actionable farming recommendations that increase productivity while reducing resource waste. FarmElement democratizes access to agricultural technology typically available only to large commercial operations.",
+    "links": ["https://youtu.be/mHGxwYQFXQc"]
+  },
+  {
+    "project_name": "AI COUNSELLING",
+    "year": "2023",
+    "category": "Middle School - AI Showcase",
+    "summary": "A mental health support platform that provides students with accessible counseling through AI-powered conversational interfaces that offer coping strategies, emotional validation, and resource referrals. The system is designed with appropriate safeguards to recognize crisis situations and direct users to professional human counselors when necessary. AI COUNSELLING addresses the shortage of mental health resources in schools while maintaining ethical standards for youth mental health support.",
+    "links": ["https://youtu.be/B1Jl_k5omZM"]
+  },
+  {
+    "project_name": "Feed Me Smart",
+    "year": "2023",
+    "category": "Middle School - AI Showcase",
+    "summary": "A nutrition guidance system that uses AI to analyze individual dietary needs, suggest healthy meal plans, and educate users about balanced nutrition through personalized recommendations. The application considers factors such as age, activity level, dietary restrictions, and health goals to create customized nutrition strategies. Feed Me Smart promotes healthy eating habits through accessible technology that makes nutrition science practical and actionable.",
+    "links": ["https://youtu.be/JMzuX7oW6jg"]
+  },
+  {
+    "project_name": "Hazel",
+    "year": "2023",
+    "category": "Middle School - AI Showcase",
+    "summary": "An intelligent personal assistant application that helps students manage academic responsibilities, extracurricular activities, and personal wellness through AI-powered scheduling, reminders, and productivity optimization. The system learns individual user patterns to provide increasingly personalized time management suggestions and stress reduction strategies. Hazel addresses student burnout and organization challenges through thoughtful AI integration.",
+    "links": ["https://youtu.be/F7Ud3RxupBw"]
+  },
+  {
+    "project_name": "Scribe AI",
+    "year": "2023",
+    "category": "High School - AI Showcase",
+    "summary": "An advanced note-taking and study assistance tool that uses natural language processing to automatically generate organized summaries, study guides, and quiz questions from lecture recordings and reading materials. The system helps students process and retain information more effectively by creating personalized study resources from course content. Scribe AI enhances learning efficiency and accessibility for students with diverse learning styles and needs.",
+    "links": ["https://youtu.be/jpIM1zaBdIc"]
+  },
+  {
+    "project_name": "VexID",
+    "year": "2023",
+    "category": "High School - AI Showcase",
+    "summary": "A biometric authentication system that employs advanced computer vision and machine learning to provide secure, privacy-preserving identity verification for educational and professional settings. The project demonstrates sophisticated understanding of security principles, encryption, and ethical considerations in biometric technology deployment. VexID balances convenience with privacy protection through innovative cryptographic and AI techniques.",
+    "links": ["https://youtu.be/VVZgQLOR8BU"]
+  },
+  {
+    "project_name": "Silver Sync",
+    "year": "2023",
+    "category": "High School - AI Showcase",
+    "summary": "A comprehensive platform connecting elderly individuals with younger volunteers for intergenerational mentorship, companionship, and technology assistance, using AI to facilitate meaningful matches and engagement. The system addresses social isolation among seniors while providing youth with valuable life lessons and service opportunities through intelligent pairing algorithms. Silver Sync promotes intergenerational community building through thoughtful technology design.",
+    "links": ["https://youtu.be/DfFusqKxQBQ"]
+  },
+  {
+    "project_name": "Drive Beyond",
+    "year": "2023",
+    "category": "High School - AI Showcase",
+    "summary": "An educational platform that teaches autonomous vehicle principles through interactive simulations and AI-powered driving scenario analysis, preparing students for careers in transportation technology. The system provides hands-on experience with computer vision, sensor fusion, and decision-making algorithms used in self-driving cars. Drive Beyond makes cutting-edge automotive technology education accessible and engaging for high school students.",
+    "links": ["https://youtu.be/5xMNxZZ_HOM"]
+  },
+  {
+    "project_name": "Risk-assessment tool for Learning Disorders",
+    "year": "2023",
+    "category": "High School - AI Showcase",
+    "summary": "An early screening system that uses machine learning to identify potential learning disabilities through analysis of academic performance patterns, behavioral indicators, and cognitive assessment data. The tool enables earlier intervention and appropriate educational support by flagging students who may benefit from comprehensive evaluation. This project addresses critical gaps in learning disability identification, particularly in underserved communities lacking specialized diagnostic resources.",
+    "links": ["https://youtu.be/Tqr7VoVLIXU"]
+  },
+  {
+    "project_name": "AI Deepfake Detector",
+    "year": "2022",
+    "category": "Elementary - AI Showcase",
+    "summary": "A media authentication tool that employs deep learning algorithms to identify manipulated images and videos, helping users distinguish genuine content from AI-generated deepfakes. The system analyzes subtle artifacts and inconsistencies that indicate digital manipulation, promoting media literacy and critical evaluation of online information. This project addresses the growing challenge of misinformation in an era of increasingly sophisticated synthetic media.",
+    "links": ["https://youtu.be/sUUp2sWSTSM"]
+  },
+  {
+    "project_name": "AI Guidance System AGS App",
+    "year": "2022",
+    "category": "Elementary - AI Showcase",
+    "summary": "A student support application that provides personalized academic guidance, career exploration resources, and social-emotional learning support through AI-powered recommendations and interactive activities. The system helps elementary students develop self-awareness, goal-setting skills, and informed decision-making about their educational paths. AGS App makes comprehensive student guidance accessible beyond traditional counselor-student ratios.",
+    "links": ["https://youtu.be/-d0xD3PVse4"]
+  },
+  {
+    "project_name": "AI Cap for Visually Impaired",
+    "year": "2022",
+    "category": "Elementary - AI Showcase",
+    "summary": "A wearable assistive device that uses computer vision and audio feedback to help visually impaired individuals navigate their environment by identifying obstacles, reading text, and recognizing faces. The cap-mounted system provides real-time spatial awareness through discrete audio cues, enhancing independence and safety for users with vision loss. This project demonstrates innovative application of AI to address critical accessibility challenges.",
+    "links": ["https://youtu.be/h-8KFuGobDs"]
+  },
+  {
+    "project_name": "Drive Assist AI Model",
+    "year": "2022",
+    "category": "Elementary - AI Showcase",
+    "summary": "A driver safety system that employs computer vision and predictive analytics to monitor driving behavior, detect drowsiness or distraction, and alert drivers to potential hazards. The AI model analyzes facial features, head position, and vehicle dynamics to assess driver attention and provide timely safety interventions. Drive Assist addresses road safety concerns through proactive, AI-powered driver monitoring.",
+    "links": ["https://youtu.be/61rfDgHE-F4"]
+  },
+  {
+    "project_name": "Hazel's Donations",
+    "year": "2022",
+    "category": "Elementary - AI Showcase",
+    "summary": "A charitable giving platform that streamlines donation processes, matches donors with causes aligned to their values, and tracks the impact of contributions using AI-powered matching algorithms and transparent reporting systems. The application makes philanthropy more accessible and efficient by simplifying the donation experience and providing meaningful feedback on charitable impact. Hazel's Donations promotes civic engagement and social responsibility through user-friendly technology.",
+    "links": ["https://youtu.be/alOHQLg7Pi0"]
+  },
+  {
+    "project_name": "HeySitUp",
+    "year": "2022",
+    "category": "Elementary - AI Showcase",
+    "summary": "A posture monitoring application that uses computer vision to detect poor sitting habits and provide real-time feedback to users, helping prevent back pain and musculoskeletal problems associated with prolonged computer use. The system learns individual posture patterns and offers personalized reminders and corrective exercise suggestions. HeySitUp addresses the growing health concerns related to sedentary digital lifestyles through preventive AI technology.",
+    "links": ["https://youtu.be/EkQ3Cvdi-3w"]
+  },
+  {
+    "project_name": "Preschool Pickup",
+    "year": "2022",
+    "category": "Elementary - AI Showcase",
+    "summary": "A school safety and efficiency system that uses facial recognition and automated notification to streamline preschool pickup procedures while enhancing child security through authorized guardian verification. The application reduces wait times, prevents unauthorized pickups, and provides real-time updates to parents through AI-powered identification and communication systems. Preschool Pickup improves both safety and operational efficiency in early childhood education settings.",
+    "links": ["https://youtu.be/eUQhv2FQqFo"]
+  },
+  {
+    "project_name": "Rita Chatbot",
+    "year": "2022",
+    "category": "Elementary - AI Showcase",
+    "summary": "An educational conversational agent designed to answer student questions, provide learning support, and offer age-appropriate information across various subjects through natural language interaction. Rita uses sophisticated dialogue management to maintain engaging conversations while directing students to appropriate resources and encouraging independent learning. This chatbot demonstrates how AI can supplement educational support in resource-limited settings.",
+    "links": ["https://youtu.be/TAF7o2XzhqY"]
+  },
+  {
+    "project_name": "AI Determining Hand Gesture Meanings in Different Cultures",
+    "year": "2022",
+    "category": "Middle School - AI Showcase",
+    "summary": "A cross-cultural communication tool that uses computer vision to recognize hand gestures and provide context-aware interpretations based on cultural background, helping prevent miscommunication in multicultural interactions. The system educates users about cultural differences in non-verbal communication while facilitating more sensitive and informed cross-cultural exchanges. This project addresses important challenges in global communication and cultural competency.",
+    "links": ["https://youtu.be/9A-Z9OJvDgs"]
+  },
+  {
+    "project_name": "AI Flood Detector",
+    "year": "2022",
+    "category": "Middle School - AI Showcase",
+    "summary": "An early warning system that employs machine learning to predict flood risks by analyzing weather patterns, water level sensors, and geographic data to provide timely evacuation alerts and emergency response coordination. The system helps communities prepare for and respond to flooding events more effectively through accurate, real-time risk assessment. AI Flood Detector demonstrates how artificial intelligence can save lives and reduce disaster-related damages.",
+    "links": ["https://youtu.be/28vLZ5vES28"]
+  },
+  {
+    "project_name": "Clean News",
+    "year": "2022",
+    "category": "Middle School - AI Showcase",
+    "summary": "A news verification platform that uses natural language processing and fact-checking algorithms to distinguish reliable journalism from misinformation, helping users develop critical media literacy skills. The system analyzes article credibility indicators, source reliability, and content consistency to provide transparency scores for news sources. Clean News addresses the critical challenge of information quality in digital media environments.",
+    "links": ["https://youtu.be/2hd8ApTyxfo"]
+  },
+  {
+    "project_name": "Disarming Global Warming",
+    "year": "2022",
+    "category": "Middle School - AI Showcase",
+    "summary": "A climate action platform that uses AI to track carbon emissions, suggest personalized sustainability actions, and visualize the collective impact of individual environmental choices. The system gamifies climate action by providing feedback on carbon footprint reduction and connecting users with local environmental initiatives. This project empowers individuals to address climate change through accessible, data-driven guidance.",
+    "links": ["https://youtu.be/KyaWgx_mJpI"]
+  },
+  {
+    "project_name": "Fire Patrol",
+    "year": "2022",
+    "category": "Middle School - AI Showcase",
+    "summary": "A fire detection and prevention system that employs computer vision and thermal imaging analysis to identify potential fire hazards and alert authorities to early-stage fires before they become catastrophic. The AI monitors video feeds from strategic locations, recognizing smoke patterns and heat signatures that indicate fire risk. Fire Patrol demonstrates how proactive AI surveillance can enhance public safety and disaster prevention.",
+    "links": ["https://youtu.be/4BQEqRpBO_A"]
+  },
+  {
+    "project_name": "Fly-tipping – the predator to the environment and economy",
+    "year": "2022",
+    "category": "Middle School - AI Showcase",
+    "summary": "An illegal dumping detection system that uses computer vision to identify and report fly-tipping incidents through analysis of surveillance footage and satellite imagery. The platform helps municipalities combat illegal waste disposal by automating detection and facilitating rapid response to environmental violations. This project addresses significant environmental and economic challenges associated with improper waste disposal through AI-powered monitoring.",
+    "links": ["https://youtu.be/8JKgkg045Lo"]
+  },
+  {
+    "project_name": "Nudge",
+    "year": "2022",
+    "category": "Middle School - AI Showcase",
+    "summary": "A behavioral intervention application that uses AI-powered personalized reminders and positive reinforcement to help users maintain healthy habits, achieve goals, and overcome procrastination through gentle, evidence-based nudging techniques. The system learns individual behavior patterns to optimize the timing and content of motivational prompts. Nudge applies behavioral psychology principles through thoughtful AI implementation to support positive behavior change.",
+    "links": ["https://youtu.be/QBqszOTulcw"]
+  },
+  {
+    "project_name": "Pest detector",
+    "year": "2022",
+    "category": "Middle School - AI Showcase",
+    "summary": "An agricultural monitoring tool that employs computer vision to identify crop pests and diseases early, enabling targeted treatment that reduces pesticide use and crop losses. The system provides farmers with species-specific pest information and integrated pest management recommendations through mobile device image analysis. This project promotes sustainable agriculture by making precision pest control accessible to farmers of all scales.",
+    "links": ["https://youtu.be/WRclDGyjXMY"]
+  },
+  {
+    "project_name": "DermaGraph",
+    "year": "2022",
+    "category": "High School - AI Showcase",
+    "summary": "A dermatological screening application that uses convolutional neural networks to analyze skin lesion images and assess potential melanoma or other skin cancer risks, encouraging early detection and professional consultation. The system provides preliminary risk assessments while emphasizing the importance of professional dermatological evaluation for suspicious lesions. DermaGraph demonstrates AI's potential to improve healthcare access and early disease detection.",
+    "links": ["https://youtu.be/w1JRGsZvP9k"]
+  },
+  {
+    "project_name": "Deus Ex Machina",
+    "year": "2022",
+    "category": "High School - AI Showcase",
+    "summary": "An autonomous humanitarian aid delivery system that uses AI-powered path planning and obstacle avoidance to navigate disaster zones and conflict areas, delivering essential supplies to trapped or isolated populations. The project employs satellite imagery analysis and machine learning algorithms to determine optimal routes through hazardous terrain while minimizing risk to human aid workers. This innovation demonstrates how robotics and AI can save lives in crisis situations.",
+    "links": ["https://youtu.be/XxB-aISEbOc"]
+  },
+  {
+    "project_name": "FishNET AI",
+    "year": "2022",
+    "category": "High School - AI Showcase",
+    "summary": "A marine conservation tool that uses computer vision and neural networks to monitor fish populations, identify species, and track ecosystem health through automated analysis of underwater camera footage. The system provides marine biologists and conservationists with scalable monitoring capabilities that would be impractical through manual observation. FishNET AI supports sustainable fisheries management and marine biodiversity preservation through accessible AI technology.",
+    "links": ["https://youtu.be/cyH9eDayZX8"]
+  },
+  {
+    "project_name": "Heart Disease AI Predictor",
+    "year": "2022",
+    "category": "High School - AI Showcase",
+    "summary": "A cardiovascular risk assessment system that analyzes patient health metrics, lifestyle factors, and genetic predispositions using machine learning to predict heart disease risk and recommend preventive measures. The application makes advanced cardiac risk stratification more accessible while promoting heart-healthy behaviors through personalized health guidance. This project demonstrates AI's potential to shift healthcare from reactive treatment to proactive prevention.",
+    "links": ["https://youtu.be/mZH7whGMid8"]
+  },
+  {
+    "project_name": "Jam Clogger",
+    "year": "2022",
+    "category": "High School - AI Showcase - Impact Excellence",
+    "summary": "A traffic flow optimization system that employs reinforcement learning (Q-learning) to dynamically adjust traffic light timing based on real-time vehicle detection, significantly reducing congestion and emissions. The AI prioritizes lanes with heavier traffic volumes to minimize overall wait times and improve urban traffic efficiency. Jam Clogger demonstrates how machine learning can address critical urban infrastructure challenges and environmental concerns simultaneously.",
+    "links": ["https://youtu.be/XqvyimtoJPg"]
+  },
+  {
+    "project_name": "Meningioma Diagnosis AI",
+    "year": "2022",
+    "category": "High School - AI Showcase",
+    "summary": "A medical imaging analysis system that uses convolutional neural networks to detect and classify meningioma brain tumors from MRI scans, assisting radiologists in diagnosis and treatment planning. The AI provides quantitative tumor measurements and classification confidence scores that support clinical decision-making while reducing diagnostic time. This project demonstrates advanced application of deep learning to improve neurological healthcare outcomes.",
+    "links": ["https://youtu.be/Tj691Lt1OMA"]
+  },
+  {
+    "project_name": "RecyLink",
+    "year": "2022",
+    "category": "High School - AI Showcase",
+    "summary": "A comprehensive recycling ecosystem platform that connects students, schools, recycling centers, and government agencies through AI-powered material identification, collection coordination, and impact tracking. The system uses computer vision to identify recyclable items, optimize collection logistics, and provide users with feedback on their environmental contribution. RecyLink promotes circular economy principles through accessible technology that makes recycling more effective and rewarding.",
+    "links": ["https://youtu.be/50ep5pH5VNk"]
+  },
+  {
+    "project_name": "SignTrack",
+    "year": "2022",
+    "category": "High School - AI Showcase",
+    "summary": "A sign language recognition and learning platform that uses computer vision and deep learning to interpret signed communication and provide educational feedback for sign language learners. The system enables real-time translation and offers corrective guidance on sign formation, making sign language education more accessible and self-directed. SignTrack bridges communication gaps while promoting linguistic diversity and accessibility.",
+    "links": ["https://youtu.be/Aam-H5v4UCM"]
+  },
+  {
+    "project_name": "MaWeRec Mask Wearing Recognition",
+    "year": "2021",
+    "category": "Elementary - AI Showcase",
+    "summary": "A computer vision system designed to detect proper face mask usage in public spaces, supporting public health compliance during the COVID-19 pandemic through automated monitoring and gentle reminder systems. The AI identifies whether individuals are wearing masks correctly, improperly, or not at all, enabling effective public health policy enforcement. This project demonstrates timely application of AI to address urgent global health challenges.",
+    "links": ["https://youtu.be/GJs-8iT9rp4"]
+  },
+  {
+    "project_name": "Intelligent Escalator",
+    "year": "2021",
+    "category": "Elementary - AI Showcase",
+    "summary": "An energy-efficient escalator control system that uses computer vision and motion prediction to operate only when passengers are approaching, significantly reducing electricity consumption in buildings and public spaces. The AI learns traffic patterns to optimize escalator availability while minimizing unnecessary operation during low-usage periods. This project demonstrates how intelligent automation can contribute to sustainable building management and energy conservation.",
+    "links": ["https://youtu.be/-QwPobsHkjQ"]
+  },
+  {
+    "project_name": "Sign Assistant",
+    "year": "2021",
+    "category": "Elementary - AI Showcase",
+    "summary": "An educational tool that uses computer vision to recognize and teach sign language through interactive games and real-time feedback, making sign language learning accessible to hearing children and adults. The system provides encouragement and corrective guidance as users practice signs, promoting inclusive communication skills from an early age. Sign Assistant demonstrates how AI can support diversity, inclusion, and cross-community understanding.",
+    "links": ["https://youtu.be/aPKz_3yeJoo"]
+  },
+  {
+    "project_name": "To Eat and Not To Eat",
+    "year": "2021",
+    "category": "Middle School - AI Showcase",
+    "summary": "A plant identification application that uses computer vision to distinguish edible plants from poisonous species, providing critical survival information for outdoor enthusiasts, hikers, and foraging education. The system analyzes plant characteristics including leaves, berries, and flowers to deliver accurate species identification with safety warnings. This project addresses important outdoor safety needs through accessible botanical AI expertise.",
+    "links": ["https://youtu.be/Mm536WK4_Ak"]
+  },
+  {
+    "project_name": "Virus Forge",
+    "year": "2021",
+    "category": "Middle School - AI Showcase",
+    "summary": "An educational simulation platform that uses AI to model virus mutation patterns, transmission dynamics, and intervention effectiveness, helping students understand epidemiology and public health strategies. The system provides interactive visualizations of disease spread under various scenarios, making complex public health concepts accessible through experiential learning. Virus Forge promotes scientific literacy and informed understanding of infectious disease management.",
+    "links": ["https://youtu.be/iadq9kE4eNo"]
+  },
+  {
+    "project_name": "FIO – Elder Care Assistant",
+    "year": "2021",
+    "category": "Middle School - AI Showcase",
+    "summary": "A wearable AI device designed for elderly individuals that tracks vital signs, monitors daily routines, detects falls or abnormal patterns, and facilitates emergency communication with healthcare providers and family members. The system employs machine learning to understand individual health baselines and identify deviations that may indicate medical concerns. FIO addresses critical elder care challenges through proactive health monitoring and safety enhancement.",
+    "links": ["https://youtu.be/bpyuBB6U_FM"]
+  },
+  {
+    "project_name": "Fire Fighter",
+    "year": "2021",
+    "category": "Middle School - AI Showcase",
+    "summary": "An autonomous firefighting robot that uses thermal imaging, smoke detection, and AI-powered navigation to locate and suppress fires in hazardous environments where human firefighters face excessive danger. The system can operate in high-temperature, low-visibility conditions while providing real-time situational awareness to emergency response teams. Fire Fighter demonstrates how robotics and AI can enhance firefighter safety and firefighting effectiveness.",
+    "links": ["https://youtu.be/fDf9tEiNuOI"]
+  },
+  {
+    "project_name": "NavigAId",
+    "year": "2021",
+    "category": "High School - AI Showcase",
+    "summary": "An AI-integrated navigation application designed specifically for visually impaired individuals that uses object detection through live camera capture to identify obstacles, read signs, and provide detailed environmental descriptions via audio feedback. The system enables safer, more independent navigation in both familiar and unfamiliar spaces by creating real-time spatial awareness through computer vision. NavigAId significantly enhances mobility and autonomy for individuals with vision loss.",
+    "links": ["https://youtu.be/arZtIDfdsb0"]
+  },
+  {
+    "project_name": "An Egression supporting System for Deaf blinds",
+    "year": "2021",
+    "category": "High School - AI Showcase",
+    "summary": "An assistive communication system that helps deaf-blind individuals navigate and communicate by converting environmental information and text into tactile feedback patterns that users can interpret. The AI processes visual and auditory inputs to generate meaningful haptic signals, enabling deaf-blind users to perceive their surroundings and receive communication more effectively. This project addresses one of the most challenging accessibility scenarios through innovative multi-modal AI application.",
+    "links": ["https://youtu.be/RVdBDLYiwTU"]
+  },
+  {
+    "project_name": "Medicine RecorderMR",
+    "year": "2021",
+    "category": "High School - AI Showcase",
+    "summary": "A medication management system that uses image recognition to identify pills, track medication schedules, and provide dosage reminders while alerting users to potential drug interactions or missed doses. The AI helps patients, particularly elderly individuals or those with complex medication regimens, maintain proper medication adherence. Medicine RecorderMR addresses medication errors and non-compliance through user-friendly AI-powered health management.",
+    "links": ["https://youtu.be/rs_2tUOCPdo"]
+  },
+  {
+    "project_name": "Identifying Birds",
+    "year": "2020",
+    "category": "Elementary - AI Showcase",
+    "summary": "An educational bird identification application that uses computer vision and machine learning to recognize bird species from photographs, providing detailed species information and promoting ornithology interest among young learners. The system makes birdwatching more accessible and educational by instantly identifying species and teaching users about avian biodiversity and conservation. This project demonstrates how AI can enhance environmental education and nature appreciation.",
+    "links": ["https://youtu.be/ZnLfIberDW8"]
+  },
+  {
+    "project_name": "AI Funday Care",
+    "year": "2020",
+    "category": "Elementary - AI Showcase",
+    "summary": "A childcare assistance application that uses AI to suggest age-appropriate activities, educational games, and developmental exercises based on individual child interests and learning needs. The system helps parents and educators provide engaging, personalized learning experiences that support cognitive and social development. AI Funday Care makes evidence-based early childhood education more accessible through intelligent activity recommendations.",
+    "links": ["https://youtu.be/ZkoPYtYFULY"]
+  },
+  {
+    "project_name": "iPuma Mountain Lion Sensor",
+    "year": "2020",
+    "category": "Elementary - AI Showcase - Gold Award",
+    "summary": "A wildlife safety system that uses computer vision, GPS tracking, and crowdsourced data to detect mountain lions near roadways and alert drivers to prevent vehicle-wildlife collisions. The AI analyzes camera feeds and environmental patterns to predict animal crossing probabilities, protecting both wildlife populations and motorist safety. iPuma demonstrates innovative application of AI to wildlife conservation and public safety challenges simultaneously.",
+    "links": ["https://youtu.be/8NvRgMOS2dI"]
+  },
+  {
+    "project_name": "Segregating Waste",
+    "year": "2020",
+    "category": "Middle School - AI Showcase",
+    "summary": "An automated waste sorting system that employs computer vision to identify different types of waste materials and guide proper disposal into recycling, compost, or landfill categories. The AI educates users about proper waste management while improving recycling rates through accurate, effortless sorting. This project addresses environmental sustainability through practical, accessible AI-powered waste management technology.",
+    "links": ["https://youtu.be/IQHlWg_pxH4"]
+  },
+  {
+    "project_name": "Prevention of Electoral Fraud",
+    "year": "2020",
+    "category": "Middle School - AI Showcase",
+    "summary": "A voting security system that uses biometric verification and blockchain-inspired audit trails to ensure electoral integrity by preventing voter fraud, duplicate voting, and ballot tampering. The AI verifies voter identity while maintaining anonymity and creating transparent, tamper-proof voting records. This project addresses critical democratic governance challenges through innovative application of secure, verifiable AI systems.",
+    "links": ["https://youtu.be/vLwKcHwOyY8"]
+  },
+  {
+    "project_name": "AI Fighting Forest Fires",
+    "year": "2020",
+    "category": "Middle School - AI Showcase",
+    "summary": "A forest fire detection and prediction system that analyzes satellite imagery, weather data, and vegetation conditions to identify fire risks and active fires, enabling rapid emergency response. The AI predicts fire spread patterns to optimize firefighting resource deployment and evacuation planning. This project demonstrates how artificial intelligence can enhance disaster response and environmental protection in increasingly fire-prone ecosystems.",
+    "links": ["https://youtu.be/I31jZf8WQFo"]
+  },
+  {
+    "project_name": "Cozmo Companion",
+    "year": "2020",
+    "category": "Middle School - AI Showcase",
+    "summary": "A social robotics project using the Cozmo robot platform to provide companionship and emotional support to isolated individuals, particularly during the COVID-19 pandemic, through interactive games and responsive behaviors. The AI recognizes facial expressions and adapts interactions to user emotional states, providing meaningful social connection when human contact is limited. Cozmo Companion demonstrates the potential of social robotics to address mental health and loneliness challenges.",
+    "links": ["https://youtu.be/gzMOH7gf3aM"]
+  },
+  {
+    "project_name": "SigningSequencer",
+    "year": "2020",
+    "category": "High School - AI Showcase",
+    "summary": "An American Sign Language education platform that uses computer vision to recognize signing patterns and provide sequential learning paths that adapt to individual student progress and learning pace. The system offers corrective feedback on sign formation and tracks skill development across comprehensive ASL vocabulary. SigningSequencer makes quality sign language education more accessible through AI-powered adaptive learning technology.",
+    "links": ["https://youtu.be/E3xDOm031Ng"]
+  },
+  {
+    "project_name": "Project Masquito",
+    "year": "2019",
+    "category": "AI Showcase",
+    "summary": "An AI-assisted face mask detection system accessible through a cross-platform mobile application and robust server implementation, designed to promote public health compliance during disease outbreaks. The computer vision system identifies whether individuals are properly wearing face masks in real-time, supporting public health policy enforcement. Masquito demonstrates timely application of AI to address pandemic-related public health challenges through accessible consumer technology.",
+    "links": ["https://www.waicy.org/"]
+  },
+  {
+    "project_name": "Wanda & Cozmo - Sea Turtle Rescue",
+    "year": "2019",
+    "category": "Elementary Robotics",
+    "summary": "A robotics project using the Cozmo platform programmed to simulate sea turtle rescue operations, educating students about marine conservation while demonstrating practical applications of autonomous navigation and object manipulation. The robot identifies and retrieves objects representing endangered sea turtles, promoting environmental awareness through hands-on technology engagement. This project combines robotics education with marine conservation advocacy.",
+    "links": ["https://www.waicy.org/waicy-2019/"]
+  },
+  {
+    "project_name": "Kitty Cats - Hospital Assistant",
+    "year": "2019",
+    "category": "Elementary Robotics",
+    "summary": "A medical assistance robot programmed to help doctors by delivering water and medicines to patients in hospital settings, demonstrating practical healthcare robotics applications. The Cozmo-based system navigates hospital environments autonomously while carrying medical supplies, illustrating how robotics can support healthcare workers. This project promotes understanding of assistive technology in medical contexts through accessible robotics platforms.",
+    "links": ["https://www.waicy.org/waicy-2019/"]
+  },
+  {
+    "project_name": "Cozmo Family Grocers",
+    "year": "2019",
+    "category": "Elementary Robotics",
+    "summary": "A retail assistance robot programmed to help shoppers navigate grocery stores, locate products, and provide shopping assistance through autonomous navigation and interaction capabilities. The system demonstrates practical applications of service robotics in commercial settings while teaching students about customer service automation. Cozmo Family Grocers illustrates how robots can enhance retail experiences through helpful, accessible technology.",
+    "links": ["https://www.waicy.org/waicy-2019/"]
+  },
+  {
+    "project_name": "Project Road",
+    "year": "2019",
+    "category": "Elementary Robotics",
+    "summary": "An infrastructure maintenance robot programmed to improve street conditions by identifying and addressing issues such as litter collection, pothole detection, and traffic management through autonomous operation. The system demonstrates how robotics can support public works and municipal maintenance operations. Project Road promotes civic responsibility and introduces students to smart city technology concepts through practical robotics applications.",
+    "links": ["https://www.waicy.org/waicy-2019/"]
+  },
+  {
+    "project_name": "Autonomous Car For Increased Safety",
+    "year": "2019",
+    "category": "Elementary Programming",
+    "summary": "A self-driving car project using the AutoAuto platform programmed in Python to detect roads and pedestrians, demonstrating fundamental autonomous vehicle safety principles through practical implementation. The system employs computer vision for environment perception and decision-making algorithms for safe navigation. This project introduces students to autonomous vehicle technology and road safety through hands-on programming experience.",
+    "links": ["https://www.waicy.org/waicy-2019/"]
+  },
+  {
+    "project_name": "Dr.Cozmo",
+    "year": "2018",
+    "category": "High School Robotics",
+    "summary": "A surgical assistance robot concept programmed using the Cozmo platform to simulate robotic surgery capabilities, demonstrating how AI and robotics could assist with precise medical procedures inside the human body. The project explores minimally invasive surgical techniques and the role of autonomous systems in healthcare. Dr.Cozmo introduces students to medical robotics applications and the future of surgical technology.",
+    "links": ["https://www.waicy.org/waicy-2018/"]
+  },
+  {
+    "project_name": "Baking Companion",
+    "year": "2018",
+    "category": "Elementary Robotics",
+    "summary": "An emotion-responsive robot programmed to detect when a person is sad and autonomously bake comfort food in response, demonstrating practical applications of emotion recognition and assistive robotics. The system combines affective computing with task automation to provide emotional support through nurturing actions. Baking Companion illustrates how robots might provide companionship and care through emotionally intelligent behaviors.",
+    "links": ["https://www.waicy.org/waicy-2018/"]
+  },
+  {
+    "project_name": "C.A.R.E. (Cozmo Assisted Robot for the Elderly)",
+    "year": "2018",
+    "category": "High School Robotics",
+    "summary": "A nurse assistant robot programmed to help care for patients in hospital settings by monitoring conditions, providing companionship, and alerting medical staff to patient needs. The Cozmo-based system demonstrates how assistive robotics can support healthcare workers while improving patient care quality. C.A.R.E. addresses healthcare staffing challenges through practical robotic assistance applications.",
+    "links": ["https://www.waicy.org/waicy-2018/"]
+  },
+  {
+    "project_name": "AI Ninja",
+    "year": "2018",
+    "category": "Robotics - Home Assistant",
+    "summary": "A home assistance robot programmed to perform household tasks and respond to family needs through voice commands and autonomous operation using the Cozmo platform. The system demonstrates practical smart home applications and human-robot interaction principles. AI Ninja introduces students to domestic robotics and the emerging field of personal assistant robots.",
+    "links": ["https://www.waicy.org/waicy-2018/"]
+  },
+  {
+    "project_name": "Tsinghua Team - Multimedia Excellence",
+    "year": "2018",
+    "category": "Remote Participation - Unlimited Division Award",
+    "summary": "A multimedia-rich AI project created by students from Tsinghua High School in Beijing demonstrating creative integration of artificial intelligence with visual storytelling and presentation techniques. The project received recognition for exceptional video production quality and innovative multimedia elements. This work showcases international collaboration and the artistic potential of AI-enhanced communication.",
+    "links": ["https://www.waicy.org/waicy-2018/"]
+  },
+  {
+    "project_name": "Little Red Riding Hood - Storytelling Robot",
+    "year": "2018",
+    "category": "Remote Participation - Saudi Arabia",
+    "summary": "An educational storytelling robot programmed to narrate the classic fairy tale 'Little Red Riding Hood' through animated performances using the Cozmo platform, demonstrating AI applications in literacy education and entertainment. The interactive system engages children with literature through robotic performance, promoting reading interest and language development. This project illustrates how robotics can enhance educational storytelling experiences.",
+    "links": ["https://www.waicy.org/waicy-2018/"]
+  },
+  {
+    "project_name": "Energy Transport Robot",
+    "year": "2018",
+    "category": "Elementary Robotics - Pittsburgh Team",
+    "summary": "A logistics robot designed by young students (average age 9) to simulate energy resource transportation from the west coast to the east coast, teaching concepts of infrastructure, logistics, and energy distribution. The Cozmo-based system demonstrates autonomous navigation and resource management principles. This project introduces elementary students to supply chain concepts through accessible robotics applications.",
+    "links": ["https://www.waicy.org/waicy-2018/"]
+  },
+  {
+    "project_name": "Hospital Service Robot",
+    "year": "2018",
+    "category": "Elementary Robotics - Pittsburgh Team",
+    "summary": "A patient care robot created by young students (average age 10) programmed to provide hospital services to patients through autonomous navigation and interaction capabilities using the Cozmo platform. The system demonstrates how robots might support healthcare delivery and patient comfort. This project introduces elementary students to healthcare robotics and service automation concepts.",
+    "links": ["https://www.waicy.org/waicy-2018/"]
+  }
+]
